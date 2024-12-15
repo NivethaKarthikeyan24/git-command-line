@@ -1,0 +1,2 @@
+Go to your  terminal
+Type the command git init
